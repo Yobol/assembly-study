@@ -1,2 +1,3 @@
 # assembly-study
-Learning assembly
+
+## 环境准备
